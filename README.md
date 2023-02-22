@@ -1,7 +1,6 @@
 - 👋 Hi there , I’m @Mineshaye
 - 👀 I’m interested in Web development 
 - 🌱 currently learning python
-- 💞️  looking to collaborate on ...
 - 📫  reach me on Instagram shaye_mine 
 
 <!---

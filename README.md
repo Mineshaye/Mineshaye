@@ -1,7 +1,7 @@
 - 👋 Hi there , I’m @Mineshaye
 - 👀 I’m interested in Web development 
-- 🌱 currently learning python
-- 📫  reach me on Instagram shaye_mine 
+- 🌱 currently learning HTML/CSS/Javascript
+- 📫  reach me on Instagram _mineshaye 
 
 <!---
 Mineshaye/Mineshaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
